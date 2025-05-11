@@ -1,0 +1,54 @@
+{
+    "mode": "test",
+    "kategori": "TYT",
+    "questions": [
+        {
+            "question": "Aşağıdaki cümlelerde altı çizili sözcüklerden hangisi **mecaz anlam** taşımaktadır?",
+            "options": {
+                "A": "Bahçedeki **gül** ağaçlarının kokusu tüm mahalleyi sarıyordu.",
+                "B": "Bu **taşı** kaldıracak gücüm yok.",
+                "C": "Olayların **köküne** inmek gerek.",
+                "D": "Akşam yemeğinde **patates** kızartması yedik."
+            },
+            "answer": "C",
+            "explanation": "\"Köküne inmek\" deyimi, olayların gerçek nedenlerini araştırmak anlamında mecaz bir kullanımdır. Diğer seçeneklerdeki kelimeler gerçek anlamlarıyla kullanılmıştır.",
+            "selected_answer": ""
+        },
+        {
+            "question": "\"Yüzü **ay** gibiydi\" cümlesinde \"ay\" sözcüğü aşağıdaki anlamlardan hangisine karşılık gelmektedir?",
+            "options": {
+                "A": "Güneşin etrafında dönen doğal uydu",
+                "B": "Parlak ve güzel bir yüze sahip olma durumu",
+                "C": "Geceleri gökyüzünde görülen gök cismi",
+                "D": "Ay takviminde geçen süre"
+            },
+            "answer": "B",
+            "explanation": "Cümlede \"ay gibi\" ifadesi, kişinin güzel ve parlak bir yüze sahip olduğunu belirtmek için kullanılmış bir benzetmedir. Bu nedenle \"ay\" sözcüğü mecaz anlamda, parlak ve güzel bir yüze sahip olma durumu anlamına gelmektedir.",
+            "selected_answer": ""
+        },
+        {
+            "question": "Aşağıdaki cümlelerde hangisinde \"açık\" sözcüğü farklı bir anlamda kullanılmıştır?",
+            "options": {
+                "A": "Pencereyi **açık** bırakmışsın, soğuk giriyor içeri.",
+                "B": "Bu konu hakkında **açık** bir açıklama bekliyoruz.",
+                "C": "Oyunun sonucu **açık** ve netti.",
+                "D": "Toplantının **açık** kapılar olduğu duyuruldu."
+            },
+            "answer": "B",
+            "explanation": "Diğer seçeneklerdeki \"açık\" sözcüğü açık/kapalı durumu ifade ederken (fiziksel bir durum), B seçeneğinde \"açık\" sözcüğü anlaşılır, belirgin anlamında kullanılmıştır.",
+            "selected_answer": ""
+        },
+        {
+            "question": "\"Sözünü tutmayan, güvenilmez kişi\" anlamına gelen deyim aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Dilinden bal damlamak",
+                "B": "Ayağını denk basmak",
+                "C": "Sözünün eri olmak",
+                "D": "Sözünde durmamak"
+            },
+            "answer": "D",
+            "explanation": "\"Sözünde durmamak\" deyimi, sözünü tutmayan, güvenilmez kişi anlamına gelir. Diğer seçenekler farklı anlamlar ifade eder.",
+            "selected_answer": ""
+        }
+    ]
+}
